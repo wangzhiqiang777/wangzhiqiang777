@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangzhiqiang777
 - 👀 I’m interested in android, qt, linux, c, python.
-- 🌱 I’m currently learning android, python, e.t.
-- 💞️ I’m looking to collaborate on AI.
+- 🌱 I’m currently learning android, python.
+- 💞️ I’m looking to collaborate on AI, robot.
 - 📫 How to reach me ...email:wangzhiqiang@neusoft.edu.cn
